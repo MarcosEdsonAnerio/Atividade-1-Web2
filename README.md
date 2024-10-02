@@ -15,7 +15,7 @@ Este site foi criado por Marcos Edson Anerio Dos Santos como parte das atividade
 
 Professores responsáveis:
 
-* **joão Eujacio Teixeira Junior** - [Perfil](https://github.com/claytonferraz)
+* **joão Eujacio Teixeira Junior** - [Perfil](https://github.com/joaoteixeira)
 
 Agradecemos a todos que contribuíram para a realização deste projeto.
 ---
