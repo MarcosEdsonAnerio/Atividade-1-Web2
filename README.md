@@ -1,6 +1,6 @@
 # Meu Currículo
 
-Este projeto tem como objetivo criar um site de currículo pessoal moderno e responsivo, desenvolvido como parte das atividades acadêmicas da disciplina de Web 2 no Instituto Federal de Rondônia (IFRO) - Campus Ji-Paraná. O site inclui informações sobre meu currículo, com uma aba dedicada ao contato para facilitar a comunicação.
+Esta atividade tem como objetivo criar um site de currículo pessoal moderno e responsivo, desenvolvido como parte das atividades acadêmicas da disciplina de Web 2 no Instituto Federal de Rondônia (IFRO) - Campus Ji-Paraná. O site inclui informações sobre meu currículo, com uma aba dedicada ao contato para facilitar a comunicação.
 
 ## 🛠️ Construído com
 
