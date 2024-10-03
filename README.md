@@ -1,5 +1,5 @@
 # Atividades
-Este repositório é dedicado às atividades acadêmicas da disciplina de **Web 2** no Instituto Federal de Rondônia (IFRO)
+Este repositório é dedicado às atividades acadêmicas da disciplina de **Programação Web 2** no Instituto Federal de Rondônia Campus Ji-paraná (IFRO)
 
 ## 🛠️ Construído com
 
