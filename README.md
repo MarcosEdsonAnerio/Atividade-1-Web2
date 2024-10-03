@@ -1,5 +1,4 @@
-# Meu Currículo
-
+# Atividades
 Este repositório é dedicado às atividades acadêmicas da disciplina de **Web 2** no Instituto Federal de Rondônia (IFRO)
 
 ## 🛠️ Construído com
