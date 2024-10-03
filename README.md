@@ -1,11 +1,12 @@
 # Meu Currículo
 
-Esta atividade tem como objetivo criar um site de currículo pessoal moderno e responsivo, desenvolvido como parte das atividades acadêmicas da disciplina de Web 2 no Instituto Federal de Rondônia (IFRO) - Campus Ji-Paraná. O site inclui informações sobre meu currículo, com uma aba dedicada ao contato para facilitar a comunicação.
+Este repositório é dedicado às atividades acadêmicas da disciplina de **Web 2** no Instituto Federal de Rondônia (IFRO)
 
 ## 🛠️ Construído com
 
-* [CSS3]() - CSS para design responsivo
-* [Node.js](https://nodejs.org/) - Ambiente de execução JavaScript
+* **HTML5** - Estruturação do conteúdo da página
+* **CSS3** - Design responsivo e estilização
+* **JavaScript** - Funcionalidades interativas do site
 
 ## ✒️ Autor
 
@@ -17,5 +18,4 @@ Professores responsáveis:
 
 * **joão Eujacio Teixeira Junior** - [Perfil](https://github.com/joaoteixeira)
 
-Agradecemos a todos que contribuíram para a realização deste projeto.
 ---
